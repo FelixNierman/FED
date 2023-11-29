@@ -16,14 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Felix Nierman (vervangen door jouw naam)
+  Sanne 't Hooft (vervangen door jouw naam)
 
   #### Je startniveau:
-  Rood
+  hier je startniveau (kies uit zwart, rood óf blauw)
 
   #### Je focus:
   hier je focus (kies uit responsive óf surface plane)
-  Responsive
  
 </details>
 
@@ -38,7 +37,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Je opdracht:
   link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
-  https://nl.nothing.tech
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
@@ -59,10 +57,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-  <li>Muis kwijtraken met wazig zicht</li>
-  <li>Met hoog contrast beter dingen te vinden met wazig zicht</li>
-  <li>Weinig informatie geven per scherm voor mensen die moeilijk hun aandacht erbij kunnen houden zodat ze minder hoeven te scannen</li>
-  <li>Dingen groter maken voor mensen die moeilijk kunnen zien of aandacht houden</li>
 
 </details>
 
@@ -109,7 +103,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   | ...            | ...                | ...          | ...              |
   | ...            | ...                | ...          | ...              |
   | ...            | ...                | ...          | ...              |
-
 
 
   ### Verslag van meeting
