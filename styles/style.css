@@ -13,6 +13,7 @@
 /*********************/
 /* CUSTOM PROPERTIES */
 /*********************/
+@media (prefers-color-scheme: light) {
 :root {
 	/* startje */
 	--color-text:#111;
@@ -28,9 +29,26 @@
 	
 	--border-color: rgba(0,0,0,0.2);
 }
+}
 
+/* wel of geen dark of light mode? */
+@media (prefers-color-scheme: dark) {
+:root {
+	/* startje */
+	--color-text:#111;
+	--color-background:#eee;
 
+	--color-main: black;
+	--color-secondary: white;
+	--color-accent: #002F6C;
 
+	--background-color-main: white;
+	--background-color-secondary: black;
+	--background-color-accent: #002F6C;
+	
+	--border-color: rgba(0,0,0,0.2);
+}
+}
 
 
 /****************/
@@ -330,7 +348,11 @@ footer > ul li img {
 footer > nav:nth-of-type(2) {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
-	border-top: solid var(--border-color) 1px;
+	align-items: start;
+	border-top: solid rgb(54, 54, 54) 1px;
+	padding: 1.5em;
+	margin: -1.5em;
+	position: relative;
 }
 
 footer > nav:nth-of-type(2) div:nth-of-type(1){
@@ -340,14 +362,29 @@ footer > nav:nth-of-type(2) div:nth-of-type(1){
 
 footer > nav:nth-of-type(2) div:nth-of-type(2){
 	display: flex;
+	justify-content: end;
 }
 
 footer > nav a {
 	font-weight: lighter;
 	font-size: 15px;
+	text-decoration: none;
+	color: var(--color-secondary);
 }
 
 footer > nav a svg {
 	fill: none;
-	height: 30px;
+	height: 25px;
+	width: 25px;
+	margin: 0 0 0 .3em;
+}
+
+footer > nav button {
+	width: 3em;
+	color: var(--color-secondary);
+	text-decoration: underline;
+	font-family: "Ntype 82 Mono";
+	position: absolute;
+	right: 4.4em;
+	bottom: 1.4em;
 }
