@@ -29,7 +29,10 @@
 	--border-color: rgba(0,0,0,0.2);
 }
 
-
+@font-face {
+	font-family: Ndot;
+	src: url(Ndot-55.otf);
+}
 
 /****************/
 /* JOUW STYLING */
