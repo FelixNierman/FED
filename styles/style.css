@@ -34,6 +34,11 @@
 	src: url(Ndot-55.otf);
 }
 
+@font-face {
+	font-family: Ntype;
+	src: url(NType82Mono-Regular.otf);
+}
+
 /****************/
 /* JOUW STYLING */
 /****************/
@@ -56,7 +61,7 @@ h1 {
 }
 
 h1 a {
-	font-family: "Ndot";
+	font-family: Ndot;
 	font-size: 25px;
 	font-weight: 100;
 	margin: 0 auto 0 0;
@@ -127,7 +132,7 @@ header nav:nth-of-type(2) ul {
 	flex-direction: column;
 	list-style: none;
 	
-	font-family: "Ndot";
+	font-family: Ndot;
 	margin: 0;
 	padding: 0;
 	width: 100%;
@@ -196,7 +201,7 @@ header nav:nth-of-type(2):focus-within, nav:nth-of-type(2) {
 body {
 	margin: 0;
 	padding: 0;
-	font-family: "Ntype 82 Mono";
+	font-family: Ntype;
 }
 
 /* > betekent direct-child-combinator */
@@ -227,7 +232,7 @@ section div:nth-of-type(2) {
 }
 
 section > div:first-of-type > p {
-	font-family: "Ndot";
+	font-family: Ndot;
 	font-weight: 500;
 	font-size: 5em;
 	writing-mode: vertical-rl;
@@ -321,7 +326,7 @@ footer form div input[type="email"] {
 }
 
 footer form div button {
-	font-family: "Ndot";
+	font-family: Ndot;
 	border: none;
 	background-color: transparent;
 	color: var(--color-secondary);
@@ -358,7 +363,7 @@ footer nav:nth-of-type(1) div {
 
 }
 
-footer nav:nth-of-type(1) div h2 {
+footer h2 {
 	font-size: 16px;
 	font-weight: lighter;
 }
@@ -375,11 +380,6 @@ footer nav:nth-of-type(1) div ul li a{
 	color: var(--color-secondary);
 }
 
-footer > h2 {
-	font-weight: lighter;
-	font-size: 15px;
-}
-
 footer > ul {
 	list-style: none;
 	display: flex;
@@ -393,7 +393,7 @@ footer > ul li img {
 
 }
 
-footer > nav:nth-of-type(2) {
+footer nav:nth-of-type(2) {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
 	align-items: start;
@@ -403,35 +403,35 @@ footer > nav:nth-of-type(2) {
 	position: relative;
 }
 
-footer > nav:nth-of-type(2) div:nth-of-type(1){
+footer nav:nth-of-type(2) div:nth-of-type(1){
 	display: flex;
 	flex-direction: column;
 }
 
-footer > nav:nth-of-type(2) div:nth-of-type(2){
+footer nav:nth-of-type(2) div:nth-of-type(2){
 	display: flex;
 	justify-content: end;
 }
 
-footer > nav a {
+footer nav a {
 	font-weight: lighter;
 	font-size: 15px;
 	text-decoration: none;
 	color: var(--color-secondary);
 }
 
-footer > nav a svg {
+footer nav a svg {
 	fill: none;
 	height: 25px;
 	width: 25px;
 	margin: 0 0 0 .3em;
 }
 
-footer > nav button {
+footer nav button {
 	width: 3em;
 	color: var(--color-secondary);
 	text-decoration: underline;
-	font-family: "Ntype 82 Mono";
+	font-family: Ntype;
 	position: absolute;
 	right: 4.4em;
 	bottom: 1.4em;
@@ -487,7 +487,7 @@ body[class="phone2"] section div:nth-of-type(2) div{
 body[class="phone2"] section div:nth-of-type(2) div button{
 	background-color: transparent;
 	border: none;
-	font-family: "Ndot";
+	font-family: Ndot;
 }
 
 /* ///////////////////////////////// */
@@ -557,7 +557,7 @@ body[class="phone2"] section:nth-of-type(2) div:first-of-type button:nth-of-type
 	margin: 0 .3em;
 	padding-left: 1.5em;
 	text-align: start;
-	font-family: "Ntype 82 Mono";
+	font-family: Ntype;
 }
 
 body[class="phone2"] section:nth-of-type(2) div:nth-of-type(2) {
