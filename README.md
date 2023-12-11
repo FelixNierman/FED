@@ -38,12 +38,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   https://nl.nothing.tech
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Nothing (Nederland) 
+  <img src="./images/chrome_screenshot_Dec 11, 2023 10_28_18 AM GMT+01_00.jpg" width="375px" alt="homepagina van Nothing. De navigatie zit ergens onder in de screenshot">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Nothing Phone (2) - Nothing (Nederland) - Nothing (Nederland)
+  <img src="./images/Screenshot_20231211-102843.jpg" width="375px" alt="Detailpagina van de Phone (2)">
  
 </details>
 
@@ -87,29 +87,30 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik heb tot nu toe mijn html geschreven van mijn eerste pagina en ben nog niet begonnen aan mijn css.
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Tim            | Bibi               | Soufiane     | Felix            |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-  | ...            | ...                | ...          | ...              |
-  | ...            | ...                | ...          | ...              |
-  | ...            | ...                | ...          | ...              |
-  | ...            | ...                | ...          | ...              |
+  | Tim                                       | Bibi                                                                      | Soufiane                        | Felix            |
+  | Keuze lastig responsive of surfaceplane   | Typografie opdracht was lastig| HTML in orde?                             | Website raar ingedeeld          | HTML in orde?    |
+  | ---                                       | Misschien een andere website doen                                         | ---                             | ---              |
+  | ---                                       | ---                                                                       | ---                             | ---              |
+  | ---                                       | ---                                                                       | ---                             | ---              |
+  | ---                                       | ---                                                                       | ---                             | ---              |
+  | ---                                       | ---                                                                       | ---                             | ---              |
+  | ---                                       | ---                                                                       | ---                             | ---              |
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
+  - Een a kan in een h1
+  - Kan verschillende navjes maken voor verschillende a'tjes
+  - Dropdown hoeft niet, alleen als je tijd over hebt
+  - Pop-up hoeft niet
+  - De tekst naast je img kan gewoon een p zijn, is geen h2
   - ...
 
 </details>
@@ -124,26 +125,27 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  HTML pagina 1 helemaal af met footer ook. Begonnen css, footer nog niet af. Geen navigatie nog.
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | Tim            | Bibi               | Soufiane     | Felix            |
+  | ---            | ---                | ---          | Flex-box naar display grid?   |
+  | ---            | ---                | ---          | Font opslaan?    |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | ---            | ---                | ---          | ---              |
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - Je kan een mediaquery gebruiken om je section display: grid; te maken.
+  - Je kan je .otf font gewoon in een nieuw mapje zetten
+  - Je kan het beste je bestand op github zetten door op upload te klikken en al je bestanden er in gooien.
+  - Je deployment hoort gewoon automatisch te gaan.
+  - ...
 
 </details>
 
@@ -171,17 +173,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  1e pagina 90% klaar. Navigatie in hamburgermenu met animatie. Responsive. Footer werkend.
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | Tim            | Bibi               | Soufiane     | Felix            |
+  | ---            | ---                | ---          | Klopt mijn footer? |
+  | ---            | ---                | ---          | ---         |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | ---            | ---                | ---          | ---              |
 
 
   ### Verslag van meeting
