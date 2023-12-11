@@ -30,7 +30,7 @@
 }
 
 @font-face {
-	font-family: Ndot;
+	font-family: "Ndot";
 	src: url(Ndot-55.otf);
 }
 
@@ -61,7 +61,7 @@ h1 {
 }
 
 h1 a {
-	font-family: Ndot;
+	font-family: "Ndot";
 	font-size: 25px;
 	font-weight: 100;
 	margin: 0 auto 0 0;
