@@ -93,7 +93,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Tim                                       | Bibi                                                                      | Soufiane                        | Felix            |
+  | Tim            | Bibi               | Soufiane     | Felix            |
   | Keuze lastig responsive of surfaceplane   | Typografie opdracht was lastig| HTML in orde?                             | Website raar ingedeeld          | HTML in orde?    |
   | ---                                       | Misschien een andere website doen                                         | ---                             | ---              |
   | ---                                       | ---                                                                       | ---                             | ---              |
