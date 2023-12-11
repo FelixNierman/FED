@@ -55,8 +55,38 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+  - Goede taal gebruikt
+  - Knoppen niet heel uniek
 
+  - Veel errors html
+  - Kan niet zoomen op telefoon
+
+  - Focus is op sommige knoppen niet heel duidelijk
+  
+  - Rotate goed
+  - Balk met knoppen is te groot en neemt erg veel ruimte in, je kan niet goed scrollen of lezen.
+
+  - Er worden geen h3'tjes gebruikt, maar niet zijn niet nodig
+
+  - Lists zijn goed
+
+  - Wel een alt attribute, maar er wordt niks mee gedaan
+
+  - Als er een filmpje is, is het een link naar Youtube
+  - Veel gifs in een soort carousel
+  - Geen pauze knop (wel op Youtube)
+
+  - Bijna geen button tags
+  - focus is slecht
+
+  - geen dark/light mode.
+  - Bij hoog contrast veranderen de kleuren wel, maar de achtergrond van de knoppen verdwijnt helemaal
+
+  - Er zijn amper animaties
+  - Er is wel een prefers-reduced-animation
+
+  - color contrast is goed
+  - geen selection colors
 </details>
 
 
@@ -67,13 +97,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="./images/LANGE SCREEN.png" width="375px" alt="breakdown van de hele pagina">
 
-  ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  ### dynamisch deel section: 
+  <img src="./images/Asset 1.png" width="375px" alt="breakdown van section">
 
 </details>
 
@@ -93,7 +120,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
   | Tim            | Bibi               | Soufiane     | Felix            |
-  | Keuze lastig responsive of surfaceplane  | Typografie opdracht| HTML in orde?| Website raar     |
+  | Keuze lastig   | Typografie opdracht| HTML in orde?| Website raar     |
   | responsive of  | was lastig         | ---          | ingedeeld        |
   | surfaceplane   | Misschien een      | ---          | HTML in orde?    |
   | ---            | andere website doen| ---          | ---              |
@@ -132,9 +159,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   samen met je groepje opstellen
 
   | Tim            | Bibi               | Soufiane     | Felix            |
-  | ---            | ---                | ---          | Flex-box naar display grid?   |
+  | ---            | ---                | ---          | Flex-box naar    |
+  | ---            | ---                | ---          | display grid?    |
   | ---            | ---                | ---          | Font opslaan?    |
-  | ---            | ---                | ---          | ---              |
   | ---            | ---                | ---          | ---              |
 
 
@@ -180,18 +207,21 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   samen met je groepje opstellen
 
   | Tim            | Bibi               | Soufiane     | Felix            |
-  | ---            | ---                | ---          | Klopt mijn footer? |
-  | ---            | ---                | ---          | ---         |
-  | ---            | ---                | ---          | ---              |
-  | ---            | ---                | ---          | ---              |
+  | ---            | ---                | ---          | Klopt mijn       |
+  | ---            | ---                | ---          | footer?          |
+  | ---            | ---                | ---          | Wat moet er van  |
+  | ---            | ---                | ---          | tweede pagina    |
+  | ---            | ---                | ---          | allemaal in?     |
+
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
+  - In je footer kan je de label gebruiken om je input klikbaar te maken.
+  - Hoe ik een checkbox kan vormgeven.
+  - Hoe je met grid-template-areas moet werken.
+  - Niet alles van de tweede pagina hoeft er in. Je mag wat dingen weglaten.
   - ...
 
 </details>
