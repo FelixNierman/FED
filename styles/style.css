@@ -426,21 +426,21 @@ body[class="phone2"] section:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(2
 	top: 0;
 }
 
-body[class="phone2"] section:first-of-type div:nth-of-type(1) div:nth-of-type(2) p{
+body[class="phone2"] section:first-of-type div:nth-of-type(1) div:nth-of-type(2) p {
 	color: var(--color-main);
 	font-size: 13px;
 	max-width: 30%;
 	text-align: end;
 }
 
-body[class="phone2"] section:first-of-type div:nth-of-type(1) div:nth-of-type(2) div{
+body[class="phone2"] section:first-of-type div:nth-of-type(1) div:nth-of-type(2) div {
 	width: 40%;
 	height: auto;
 	display: flex;
 	justify-content: end;
 }
 
-body[class="phone2"] section:first-of-type div:nth-of-type(1) div:nth-of-type(2) div button{
+body[class="phone2"] section:first-of-type div:nth-of-type(1) div:nth-of-type(2) div button {
 	background-color: transparent;
 	border: none;
 	font-family: Ndot;
@@ -692,6 +692,7 @@ button {
 	body[class="phone2"] section:nth-of-type(1) div:first-of-type img {
 		height: 40em;
 		width: auto;
+		min-width:auto;
 	}
 
 	body[class="phone2"] section:nth-of-type(1) div:nth-of-type(1) div:nth-of-type(2) {

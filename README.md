@@ -184,7 +184,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  - Mijn knoppen hebben nog dezelfde inhoud, maar betere focus en hover state.
+  - Geen errors in mijn html, de echte website heeft heel veel errors.
+  - Op mijn website kan je alle knoppen en linkjes gebruiken met een toetsenbord.
+  - Werkt goed op mobiel, mijn menu gaat naar boven als je scrollt. De echte website is niet te gebruiken als je je telefoon draait.
+  - al mijn img's hebben alt tekst. De echte website nergens.
+  - Ik gebruik geen media dus ik hoef daar niks voor te maken.
+  - Mijn controls zijn goed. Alle linkjes zijn a'tjes en button lijken ook echt op buttons.
+  - We hebben allebei geen skip link, maar die hebben we niet nodig.
+  - Mijn knopjes in mijn navigatie bovenin zijn niet te zien met high-contrast. Bij de echte website heeft geen enkele knop een background of border te zien met high-contrast.
+  - ...
 
 </details>
 
@@ -238,13 +247,22 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  - Ik kon heel fijn werken tijdens de lessen. De opdrachten leerden mij echt geweldig hoe ik dingen moest doen. Ik hoefde bijna niet eens het internet op om te zoeken hoe iets moest.
+  - Ik heb geen enkele keer gebruik gemaakt van ChatGPT. Normaal gebruik ik die altijd als ik codeer. Nu was dat niet nodig.
+  - Ik snap nu helemaal hoe flex-box en grid werkt.
+  - Ik weet nu hoe GitHub werkt en vond het heel fijn dat ik versies terug kon bekijken.
+  - Ik ben nu heel goed in de :nth-of-type() en andere selectors.
+  - Uiteindelijk is het mij gelukt om mijn hele website responsive te maken.
+  - Ik weet hoe grid-template-areas werkt. 
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  - Ik vond het erg lastig om het font werkend te krijgen. Uiteindelijk is het me gelukt.
+  - Als ik meer tijd had, had ik de BUY NOW knop werkend gemaakt. Ik weet hoe het moet, maar ik had er geen tijd voor.
+  - Als ik meer tijd had, had ik mijn body een max-width gegeven, maar dat alleen de content in het midden bleef. Ik kreeg het niet voor elkaar om de achtergrond en borders door te trekken naar de buitenkanten.
+  - Het is mij niet gelukt om het plaatje van de telefoon draaibaar te maken. Ik heb het niet geprobeerd, maar dat wilde ik wel.
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
@@ -262,8 +280,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
+  1. Opdrachten op DLO.
+  2. ...
   3. ...
 
 </details>
