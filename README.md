@@ -120,10 +120,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
   | Tim            | Bibi               | Soufiane     | Felix            |
-  | Keuze lastig   | Typografie opdracht| HTML in orde?| Website raar     |
-  | responsive of  | was lastig         | ---          | ingedeeld        |
-  | surfaceplane   | Misschien een      | ---          | HTML in orde?    |
-  | ---            | andere website doen| ---          | ---              |
+  | ---            | ---                | ---          | ---              |
+  | Keuze lastig responsive of surfaceplane | Typografie opdracht was lastig | HTML in orde? | Website raar ingedeeld    |
+  | ---            | Misschien een andere website doen| ---          | HTML in orde?              |
   | ---            | ---                | ---          | ---              |
   | ---            | ---                | ---          | ---              |
   | ---            | ---                | ---          | ---              |
@@ -158,8 +157,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
   | Tim            | Bibi               | Soufiane     | Felix            |
-  | ---            | ---                | ---          | Flex-box naar    |
-  | ---            | ---                | ---          | display grid?    |
+  | ---            | ---                | ---          | ---              |
+  | ---            | ---                | ---          | Flex-box naar display grid?   |
   | ---            | ---                | ---          | Font opslaan?    |
   | ---            | ---                | ---          | ---              |
 
@@ -206,11 +205,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   samen met je groepje opstellen
 
   | Tim            | Bibi               | Soufiane     | Felix            |
-  | ---            | ---                | ---          | Klopt mijn       |
-  | ---            | ---                | ---          | footer?          |
-  | ---            | ---                | ---          | Wat moet er van  |
-  | ---            | ---                | ---          | tweede pagina    |
-  | ---            | ---                | ---          | allemaal in?     |
+  | ---            | ---                | ---          | ---              |
+  | ---            | ---                | ---          | Klopt mijn footer?       |
+  | ---            | ---                | ---          | Wat moet er van de tweede pagina in? |
+  | ---            | ---                | ---          | ---              |
+  | ---            | ---                | ---          | ---              |
 
 
 
